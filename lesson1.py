@@ -33,7 +33,7 @@ pell = Pell()
 
 
 tanjirou.greet()
-print('----------------------------------')
+z
 zenitsu.greet()
 print('----------------------------------')
 
