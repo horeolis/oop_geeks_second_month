@@ -23,6 +23,7 @@ class Hero(ABC):
         pass
 
 
+
 class Warrior(Hero):
     def __init__(self, name, level, health, strength, stamina):
         super().__init__(name, level, health, strength)
